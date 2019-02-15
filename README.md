@@ -1,1 +1,2 @@
 # gtest
+hello my  friends!
